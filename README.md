@@ -14,12 +14,7 @@ A Simple Python Script To Automate The Creation Of Virtual Environment And Djang
 
 - Python 
 
-### Installation:
 
-```
-$ git clone https://github.com/SelmiAbderrahim/AutoDjango.git
-
-```
 ### Usage:
 
 
